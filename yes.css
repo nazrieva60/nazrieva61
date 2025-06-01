@@ -1,0 +1,19 @@
+
+
+
+
+.kilig{
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				flex-direction: column;
+				gap:3em;
+}
+body{
+    background-color: palevioletred;
+}
+img{
+    padding-top: 230px;
+    width: 500px;
+    height: 600px;
+}
